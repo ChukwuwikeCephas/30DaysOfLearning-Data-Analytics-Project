@@ -1,2 +1,14 @@
-# 30DaysOfLearning-Data-Analytics-Project
-This Repository Houses a Project containing the 30daysOfLearning experience
+# 30DaysOfLearning-Data-Analytics-Project - Hash Tag Analysis
+
+-----
+# Project Objective:  Problem Statement
+
+
+-----
+# Data Sourcing
+
+-----
+# Data Transformation 
+
+----
+# Findings and Recommendations
