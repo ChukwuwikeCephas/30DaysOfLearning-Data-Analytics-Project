@@ -18,5 +18,9 @@ Data Transformation was carried out in Power Query housed in the Microsoft Power
  - It was discovered that tweets about the 30 days of learning was highest on wednesday and lowest during the weekends, as a result it will be highly recommended for trainings to be organized weekdays as against weekends when persons are more available
  - Also from The Analysis, the users @oyinbooke and @Richie4love seems to be very active and they're recommended for an award. 
    
+
 ![Power BI twitter Data Analysis - Power BI Desktop 18_07_2022 9_24_01 pm](https://user-images.githubusercontent.com/107093714/179625661-01ab1d73-d21e-4bd0-936c-96d606159b02.png)
+
+
+![Power BI twitter Data Analysis - Power BI Desktop 18_07_2022 9_24_18 pm](https://user-images.githubusercontent.com/107093714/179625810-0c991737-1f56-4763-a449-f0785f2a37c0.png)
 
