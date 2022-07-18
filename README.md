@@ -11,6 +11,7 @@ Data was sourced from twitter though this was made readily available to be acces
 -----
 # Data Transformation:
 Data Transformation was carried out in Power Query housed in the Microsoft Power BI Tool
+![30DaysOfLearning - Twitter data Analysis - Power Query Editor 18_07_2022 10_30_08 pm](https://user-images.githubusercontent.com/107093714/179624932-1af40bca-ce34-46a6-a180-811921e87039.png)
 
 ----
 # Key Findings and Recommendations:
