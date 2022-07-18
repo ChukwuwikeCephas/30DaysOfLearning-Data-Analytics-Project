@@ -24,3 +24,4 @@ Data Transformation was carried out in Power Query housed in the Microsoft Power
 
 ![Power BI twitter Data Analysis - Power BI Desktop 18_07_2022 9_24_18 pm](https://user-images.githubusercontent.com/107093714/179625810-0c991737-1f56-4763-a449-f0785f2a37c0.png)
 
+![Power BI twitter Data Analysis - Power BI Desktop 18_07_2022 9_24_31 pm](https://user-images.githubusercontent.com/107093714/179625975-4d64c858-50a0-4829-88b0-131fe2fcba39.png)
