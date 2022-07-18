@@ -2,15 +2,15 @@
 
 -----
 # Project Objective:
-Project is Aimed at Analyzing the tweets and Contents of the tweets associated with the Hash-tag: #30DAYSOFLEARNING & #NG30DAYSOFLEARNING
+Project is aimed at analyzing the tweets and contents of the tweets associated with the Hash-tag: #30DAYSOFLEARNING & #NG30DAYSOFLEARNING
 
 -----
 # Data Sourcing:
-Data was sourced from twitter though this was made readily available to be accessed from github by @oyinbooke, a Senior Cloud Advocate at Microsoft
+Data was sourced from twitter though this was made readily available to be accessed from github by @oyinbooke, a Senior cloud advocate at Microsoft
 
 -----
 # Data Transformation:
-Data Transformation was carried out in Power Query housed in the Microsoft Power BI Tool
+Data Transformation was carried out in Power Query before loading into  Microsoft Power BI Tool. The applied steps in transformation can be seen in the appended screenshot below.
 ![30DaysOfLearning - Twitter data Analysis - Power Query Editor 18_07_2022 10_30_08 pm](https://user-images.githubusercontent.com/107093714/179624932-1af40bca-ce34-46a6-a180-811921e87039.png)
 
 ----
